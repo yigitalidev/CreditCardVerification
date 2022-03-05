@@ -1,0 +1,10 @@
+C:\Users\yigit\source\repos\CreditCardVerification\CreditCardVerification\bin\Debug\CreditCardVerification.exe.config
+C:\Users\yigit\source\repos\CreditCardVerification\CreditCardVerification\bin\Debug\CreditCardVerification.exe
+C:\Users\yigit\source\repos\CreditCardVerification\CreditCardVerification\bin\Debug\CreditCardVerification.pdb
+C:\Users\yigit\source\repos\CreditCardVerification\CreditCardVerification\obj\Debug\CreditCardVerification.csproj.AssemblyReference.cache
+C:\Users\yigit\source\repos\CreditCardVerification\CreditCardVerification\obj\Debug\CreditCardVerification.Form1.resources
+C:\Users\yigit\source\repos\CreditCardVerification\CreditCardVerification\obj\Debug\CreditCardVerification.Properties.Resources.resources
+C:\Users\yigit\source\repos\CreditCardVerification\CreditCardVerification\obj\Debug\CreditCardVerification.csproj.GenerateResource.cache
+C:\Users\yigit\source\repos\CreditCardVerification\CreditCardVerification\obj\Debug\CreditCardVerification.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\CreditCardVerification\CreditCardVerification\obj\Debug\CreditCardVerification.exe
+C:\Users\yigit\source\repos\CreditCardVerification\CreditCardVerification\obj\Debug\CreditCardVerification.pdb
